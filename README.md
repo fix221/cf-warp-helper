@@ -1,4 +1,5 @@
 # cf-warp-helper
+简体中文 | [English](https://github.com/Fix221/cf-warp-helper/blob/main/README-en.md)
 一个一键选择cloudflare warp最优服务器的工具
 
 ## 功能

@@ -12,7 +12,7 @@
 ## 使用方法
 
 1. 下载并安装[wireguard](https://www.wireguard.com/install/)客户端（或从本仓库直接下载wireguard-installer.exe）
-2. 克隆或下载本仓库[cf-warp-helper](https://github.com/cf-warp-helper/cf-warp-helper/releases)
+2. 克隆或下载本仓库[cf-warp-helper]([https://github.com/fix221/cf-warp-helper/archive/refs/heads/main.zip])
 3. 修改wg-sample.conf中的`[Interface]`部分的`PrivateKey`和`[Peer]`部分的`PublicKey`为cloudflare warp服务器提供的密钥
 4. 打开cmd或powershell，进入cf-warp-helper目录，输入命令`python main.py`
 5. Enjoy!
